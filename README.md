@@ -1,5 +1,7 @@
 # 🛒 Manav Grocery Commerce
 
+![Manav Project](https://github.com/yasin-erkan/manav-grocery-commerce/raw/main/manav.gif)
+
 A modern e-commerce platform built with Next.js, TypeScript, and MongoDB.
 
 ## 🚀 Features
